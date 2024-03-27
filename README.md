@@ -3,7 +3,7 @@ Hi there am Omar 👋
 
 ========================================================
 
-Full stack Web Developer(Working on backend and framework)
+Web Designer
 ----------------------------------------------------------
 
 - 🤹🏻 Make A New Skills
